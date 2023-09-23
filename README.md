@@ -1,0 +1,1 @@
+# Banka otomsayon uygulaması
